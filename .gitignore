@@ -1,0 +1,14 @@
+# created by virtualenv automatically
+/.cache
+/.idea
+/.ipynb_checkpoints
+/.ipython
+/.jupyter
+/.local
+/.npm
+/pgdata
+/virtualenv
+/wine
+/venv 
+.bash_history
+/postgres.tar
